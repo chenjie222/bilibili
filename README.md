@@ -1,5 +1,6 @@
-Bilibili(b站)视频下载 ![enter image description here](Pic/logo.png)
+Bilibili(b站)视频下载  ![image](https://raw.githubusercontent.com/chenjie222/bilibili/master/Pic/logo.png)
 ===========================
+
 ### Bilibili官网 - https://www.bilibili.com/
 
 ## 项目Github地址: <https://github.com/chenjie222/bilibili>
@@ -39,6 +40,6 @@ python bilibili_video_download.py
 ## 运行截图
 
 > - **运行下载**<br><br>
-![enter image description here](Pic/run.png)
+ ![image](https://raw.githubusercontent.com/chenjie222/bilibili/master/Pic/run.png)
 > - **下载完成**<br><br>
-![enter image description here](Pic/video.png)
+ ![image](https://raw.githubusercontent.com/chenjie222/bilibili/master/Pic/video.png)
