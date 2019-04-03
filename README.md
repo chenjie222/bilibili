@@ -30,7 +30,11 @@ pip3 install -r requirements.txt
 >>>imageio.plugins.ffmpeg.download()
 ```
 
+##运行
 
+```
+python bilibili_video_download.py
+```
 
 ## 运行截图
 
